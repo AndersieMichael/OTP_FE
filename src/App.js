@@ -43,6 +43,7 @@ export class App extends Component {
         console.error( error);
     });
   }
+  //not used (just testing)
   Checker=()=>{
     
     var auth = getAuth();
